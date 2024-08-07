@@ -6,7 +6,7 @@ This project allows you to control computer functions like volume up/down and ne
 
 ### Hardware
 - Arduino board
-- MPU6050 sensor
+- HC-SR04 sensor
 - Jumper wires
 
 ### Software
